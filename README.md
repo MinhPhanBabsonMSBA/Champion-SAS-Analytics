@@ -1,5 +1,5 @@
 # Champion Customer Segmentation Project 
-_Check the full report below_
+_Full report below_
 
 ![](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/Champion_Apparel.png)
 
