@@ -11,7 +11,7 @@ _Full report below_
 
 ---
 
-## [Project Final Report](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/Customer_Segmentation%20Report%20-%20MKT6300-02%20Spring%202025%20(1).pdf)
+## [Project Final Report](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/Customer_Segmentation%20Report%20-%20MKT6300-02%20Spring%202025.pdf)
 
 
 ##  Real-World Industry Collaboration
