@@ -10,7 +10,7 @@
 
 ##  Real-World Industry Collaboration
 
-This project was conducted as part of an **experiential learning partnership between Babson College and Champion**, a brand owned by **Authentic Brands Group**. Our team was tasked with analyzing this data to uncover actionable customer insights and develop **evidence-based CRM strategies** aligned with Champion’s ongoing business objectives and transition toward direct-to-consumer engagement.
+This project was conducted as part of an **experiential learning partnership between Babson College and [Champion](https://www.champion.com)**, a brand owned by **[Authentic Brands Group](https://corporate.authentic.com/brand-portfolio)**. Our team was tasked with analyzing this data to uncover actionable customer insights and develop **evidence-based CRM strategies** aligned with Champion’s ongoing business objectives and transition toward direct-to-consumer engagement.
 
 ---
 
