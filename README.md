@@ -87,11 +87,58 @@ This project leverages **behavioral customer segmentation** for **Champion**, a 
 
 ---
 
+
 ## 📎 Appendix
 
-- Detailed metrics (avg. order value, items/order, product category splits)
-- Gender and product preferences by segment
-- Visual outputs from SAS Studio (box plots, correlation matrix)
+### 📊 Summary Statistics by Segment
+
+![](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/MKT%206300%20Step%205%20summary%20stat-1.png)
+
+<sub>*These values represent means calculated from RFM segmentation using SAS Studio.*</sub>
+
+---
+
+### 📈 Visual Segment Insights
+
+#### 1. **Recency Distribution**
+Loyal and Growth customers purchased most recently, while At Risk and Inactive have longer gaps since their last purchase.
+
+![Recency](assets/MKT%206300%20Step%205%20summary%20stat-1.png)
+
+---
+
+#### 2. **Frequency Distribution**
+Loyal and At Risk customers purchase more frequently. Growth and Inactive customers engage less often.
+
+![Frequency](assets/MKT%206300%20Step%205%20summary%20stat-2.png)
+
+---
+
+#### 3. **Monetary Value Distribution**
+Loyal and At Risk customers spend more. Inactive and Growth customers offer upsell and reactivation opportunities.
+
+![Monetary](assets/MKT%206300%20Step%205%20summary%20stat-3.png)
+
+---
+
+#### 4. **Promotional Offer Usage**
+Loyal and At Risk segments are highly responsive to promotions, while Growth and Inactive segments show room for improvement.
+
+![Promotions](assets/MKT%206300%20Step%205%20summary%20stat-4.png)
+
+---
+
+#### 5. **Retention Score Distribution**
+Loyal customers have the highest estimated retention, followed by At Risk and Growth. Inactive customers have the lowest retention and need attention.
+
+![Retention Score](assets/MKT%206300%20Step%205%20summary%20stat-5.png)
+
+---
+
+#### 6. **Descriptive Statistics Table**
+This breakdown shows detailed mean, standard deviation, and median values for each RFM dimension and customer segment.
+
+![Descriptive Table](assets/MKT%206300%20Step%205%20summary%20stat-6.png)
 
 ---
 
