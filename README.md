@@ -2,11 +2,16 @@
 
 ![](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/Champion_Apparel.png)
 
-**Course:** MKT 6300-02 | **Semester:** Spring 2025  
+**Course:** MKT 6300-02 
+
 **Team Members:** Minh Phan (Team Lead), Levi Delaney, Christopher Ogunbufunmi, Olabanji Dodo, Talha Gulzar  
+
 **Date:** March 11, 2025
 
 ---
+
+## [Project Final Report](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/Customer_Segmentation%20Report%20-%20MKT6300-02%20Spring%202025%20(1).pdf)
+
 
 ##  Real-World Industry Collaboration
 
