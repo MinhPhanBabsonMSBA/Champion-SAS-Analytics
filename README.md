@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project leverages **behavioral customer segmentation** for **Champion**, a heritage athleticwear brand transitioning to a more direct-to-consumer (DTC) marketing strategy under Authentic Brands Group. We developed a data-driven approach using the **RFM (Recency, Frequency, Monetary) model** to classify customers and propose tailored marketing strategies.
 
 ---
 
-## 🎯 Business & Marketing Objectives
+##  Business & Marketing Objectives
 
 - **Increase customer engagement** by delivering personalized campaigns.
 - **Boost revenue** through targeted reactivation and loyalty programs.
@@ -21,20 +21,20 @@ This project leverages **behavioral customer segmentation** for **Champion**, a 
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
-### 🔧 Tools Used:
+### Tools Used:
 - **SAS Studio** for RFM segmentation, correlation analysis, and data visualization
 - Quantile ranking to segment customer base into behavioral clusters
 
-### 🔍 Segmentation Approach:
+### Segmentation Approach:
 - Applied the **RFM model** to categorize customers by purchase patterns
 - Segmented customer base into 4 strategic groups
 - Analyzed each segment’s characteristics and tailored marketing recommendations accordingly
 
 ---
 
-## 📊 Customer Segments
+## Customer Segments
 
 | Segment             | Description |
 |---------------------|-------------|
@@ -45,7 +45,7 @@ This project leverages **behavioral customer segmentation** for **Champion**, a 
 
 ---
 
-## 👥 Segment Profiles
+##  Segment Profiles
 
 | Segment             | Size     | Avg. Monetary | Promo Use (%) | Retention Rate |
 |---------------------|----------|---------------|----------------|----------------|
@@ -56,27 +56,27 @@ This project leverages **behavioral customer segmentation** for **Champion**, a 
 
 ---
 
-## 📈 Key Recommendations
+##  Key Recommendations
 
-### ✨ Loyal Customers
+### 1. Loyal Customers
 - Launch **Champion VIP Club**: early access to product drops, personalized rewards
 - Send **quarterly thank-you messages** with discount codes
 
-### 🧲 At Risk Customers
+### 2. At Risk Customers
 - "We Miss You!" campaigns with 2x loyalty points
 - Retargeting with popular product promotions
 
-### 🚀 Growth Customers
+### 3. Growth Customers
 - Cross-sell opportunities via personalized product bundles
 - “Build Your Fit” bundle discounts to boost cart size
 
-### 🔁 Inactive Customers
+### 4. Inactive Customers
 - “Welcome Back” campaign with 20% off
 - Showcase best-sellers and new drops to reignite interest
 
 ---
 
-## 💰 Marketing Budget Allocation
+##  Marketing Budget Allocation
 
 | Segment             | % Customers | Avg. CLV | Budget Share | Rationale |
 |---------------------|-------------|----------|--------------|-----------|
@@ -88,57 +88,49 @@ This project leverages **behavioral customer segmentation** for **Champion**, a 
 ---
 
 
-## 📎 Appendix
+## Appendix
 
-### 📊 Summary Statistics by Segment
+###  Summary Statistics by Segment
 
 ![](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/MKT%206300%20Step%205%20summary%20stat-1.png)
-
 <sub>*These values represent means calculated from RFM segmentation using SAS Studio.*</sub>
 
 ---
 
-### 📈 Visual Segment Insights
+###  Visual Segment Insights
 
 #### 1. **Recency Distribution**
 Loyal and Growth customers purchased most recently, while At Risk and Inactive have longer gaps since their last purchase.
 
-![Recency](assets/MKT%206300%20Step%205%20summary%20stat-1.png)
+![Recency](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/MKT%206300%20Step%205%20summary%20stat-2.png)
 
 ---
 
 #### 2. **Frequency Distribution**
 Loyal and At Risk customers purchase more frequently. Growth and Inactive customers engage less often.
 
-![Frequency](assets/MKT%206300%20Step%205%20summary%20stat-2.png)
+![Frequency](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/MKT%206300%20Step%205%20summary%20stat-3.png)
 
 ---
 
 #### 3. **Monetary Value Distribution**
 Loyal and At Risk customers spend more. Inactive and Growth customers offer upsell and reactivation opportunities.
 
-![Monetary](assets/MKT%206300%20Step%205%20summary%20stat-3.png)
+![Monetary](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/MKT%206300%20Step%205%20summary%20stat-4.png)
 
 ---
 
 #### 4. **Promotional Offer Usage**
 Loyal and At Risk segments are highly responsive to promotions, while Growth and Inactive segments show room for improvement.
 
-![Promotions](assets/MKT%206300%20Step%205%20summary%20stat-4.png)
+![Promotions](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/MKT%206300%20Step%205%20summary%20stat-5.png)
 
 ---
 
 #### 5. **Retention Score Distribution**
 Loyal customers have the highest estimated retention, followed by At Risk and Growth. Inactive customers have the lowest retention and need attention.
 
-![Retention Score](assets/MKT%206300%20Step%205%20summary%20stat-5.png)
-
----
-
-#### 6. **Descriptive Statistics Table**
-This breakdown shows detailed mean, standard deviation, and median values for each RFM dimension and customer segment.
-
-![Descriptive Table](assets/MKT%206300%20Step%205%20summary%20stat-6.png)
+![Retention Score](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/MKT%206300%20Step%205%20summary%20stat-6.png)
 
 ---
 
