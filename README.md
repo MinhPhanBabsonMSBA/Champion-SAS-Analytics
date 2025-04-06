@@ -1,14 +1,47 @@
-# 🧠 Champion Customer Segmentation Project
+# Champion Customer Segmentation Project
+
+![](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/Champion_Apparel.png)
 
 **Course:** MKT 6300-02 | **Semester:** Spring 2025  
-**Team Members:** Minh Phan, Levi Delaney, Christopher Ogunbufunmi, Olabanji Dodo, Talha Gulzar  
+**Team Members:** Minh Phan (Team Lead), Levi Delaney, Christopher Ogunbufunmi, Olabanji Dodo, Talha Gulzar  
 **Date:** March 11, 2025
 
 ---
 
-## Project Overview
+##  Real-World Industry Collaboration
 
-This project leverages **behavioral customer segmentation** for **Champion**, a heritage athleticwear brand transitioning to a more direct-to-consumer (DTC) marketing strategy under Authentic Brands Group. We developed a data-driven approach using the **RFM (Recency, Frequency, Monetary) model** to classify customers and propose tailored marketing strategies.
+This project was conducted as part of an **experiential learning partnership between Babson College and Champion**, a brand owned by **Authentic Brands Group**. Our team was tasked with analyzing this data to uncover actionable customer insights and develop **evidence-based CRM strategies** aligned with Champion’s ongoing business objectives and transition toward direct-to-consumer engagement.
+
+---
+
+##  Project Leadership
+
+As **Team Lead**, I (Minh Phan) was responsible for:
+- Overseeing project workflow and timeline
+- Facilitating communication and collaboration between team members
+- Assigning roles based on individual strengths
+- Ensuring analytical quality, consistency, and alignment with Champion’s CRM goals
+- Final integration of findings, visualizations, and strategic recommendations
+
+---
+
+##  Work Distribution
+
+| Team Member              | Responsibilities                                                                 |
+|--------------------------|-----------------------------------------------------------------------------------|
+| **Minh Phan** *(Team Lead)*         | Project management, RFM model supervision, final editing, visualization integration        |
+| **Levi Delaney**         | RFM quantile segmentation, frequency and monetary analysis in SAS Studio         |
+| **Christopher Ogunbufunmi** | Recency analysis, retention score visualization, and customer lifetime value evaluation |
+| **Olabanji Dodo**        | Promotional offer usage analysis, segment profiling, and interpretation           |
+| **Talha Gulzar**         | Marketing strategy design, campaign recommendations, and budget allocation       |
+
+---
+
+##  Project Overview
+
+This project focused on behavioral customer segmentation for **Champion**, a legacy athleticwear brand shifting its strategy toward **direct-to-consumer (DTC) growth**. Using proprietary customer data provided by Champion, we built a model to uncover actionable insights and propose tailored CRM strategies.
+
+The analysis was conducted in partnership with **Authentic Brands Group** and **Babson College**, bridging academic rigor with real-world business needs.
 
 ---
 
@@ -21,13 +54,13 @@ This project leverages **behavioral customer segmentation** for **Champion**, a 
 
 ---
 
-## Methodology
+## 🧪Methodology
 
-### Tools Used:
+### 🛠 Tools Used:
 - **SAS Studio** for RFM segmentation, correlation analysis, and data visualization
-- Quantile ranking to segment customer base into behavioral clusters
+- Quantile ranking to segment the customer base into behavioral clusters
 
-### Segmentation Approach:
+###  Segmentation Approach:
 - Applied the **RFM model** to categorize customers by purchase patterns
 - Segmented customer base into 4 strategic groups
 - Analyzed each segment’s characteristics and tailored marketing recommendations accordingly
@@ -56,7 +89,7 @@ This project leverages **behavioral customer segmentation** for **Champion**, a 
 
 ---
 
-##  Key Recommendations
+## Key Recommendations
 
 ### 1. Loyal Customers
 - Launch **Champion VIP Club**: early access to product drops, personalized rewards
@@ -86,7 +119,6 @@ This project leverages **behavioral customer segmentation** for **Champion**, a 
 | At Risk Customers   | 10%         | $102.98  | 11%          | Important to retain to avoid churn |
 
 ---
-
 
 ## Appendix
 
@@ -131,9 +163,3 @@ Loyal and At Risk segments are highly responsive to promotions, while Growth and
 Loyal customers have the highest estimated retention, followed by At Risk and Growth. Inactive customers have the lowest retention and need attention.
 
 ![Retention Score](https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/MKT%206300%20Step%205%20summary%20stat-6.png)
-
----
-
-## 📬 Contact
-
-Feel free to reach out if you’d like to collaborate or learn more about the analysis.
